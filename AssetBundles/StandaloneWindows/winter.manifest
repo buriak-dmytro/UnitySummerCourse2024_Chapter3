@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3480333204
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce037c1796258b68b4a3d77eca6e273a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 35454ccdc257e4a32004d3b6858bebf5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ce037c1796258b68b4a3d77eca6e273a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/AssetBundleShowcase/Guy.prefab
+- Assets/Prefabs/AssetBundleShowcase/Stuff.prefab
+- Assets/Prefabs/AssetBundleShowcase/Sphere.prefab
+- Assets/Prefabs/AssetBundleShowcase/Snowman.prefab
+- Assets/Prefabs/AssetBundleShowcase/Dude.prefab
+- Assets/Prefabs/AssetBundleShowcase/Cylinder.prefab
+- Assets/Prefabs/AssetBundleShowcase/Tree.prefab
+Dependencies:
+- M:/Personal/BidOn/Summer course 2024/Unity/Chapter3/AssetBundles/StandaloneWindows/material

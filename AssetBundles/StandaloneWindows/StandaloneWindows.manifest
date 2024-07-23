@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 893447595
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: material
+      Dependencies: {}
+    Info_1:
+      Name: winter
+      Dependencies:
+        Dependency_0: material
