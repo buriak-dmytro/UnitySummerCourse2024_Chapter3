@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 217307111
+CRC: 4084058490
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 163a6cc95a7e31e52c39773b552ae1d4
+    Hash: 29ae0c0c32fc049d315901d5e2f0324d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 5e762ccb57c4caaabbb5a4199ac82c23
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 163a6cc95a7e31e52c39773b552ae1d4
+    Hash: 29ae0c0c32fc049d315901d5e2f0324d
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -18,5 +18,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Materials/AssetBundleShowcase/CommonMaterial.mat
+- Assets/Materials/AssetBundleShowcase/ThingMaterial1.mat
+- Assets/Materials/AssetBundleShowcase/ThingMaterial2.mat
 Dependencies: []

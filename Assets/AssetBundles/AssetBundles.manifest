@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 893447595
+CRC: 222560017
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -9,3 +9,10 @@ AssetBundleManifest:
       Name: winter
       Dependencies:
         Dependency_0: material
+    Info_2:
+      Name: molecules
+      Dependencies:
+        Dependency_0: molecules_materials
+    Info_3:
+      Name: molecules_materials
+      Dependencies: {}
